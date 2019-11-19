@@ -1,5 +1,10 @@
 <html>
+<head>
+<tittle>Primera Pagina</tittle>
+<link href="main.css" rel="stylesheet" /> 
+</head>
+
 <body>
-<p>Hola Mundo<p/>
-<body/>
-<html/>
+<h1>Hola Mundo</h1>
+</body>
+</html>
